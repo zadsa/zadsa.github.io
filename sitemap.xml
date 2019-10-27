@@ -2,58 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yoursite.com/about/index.html</loc>
+    <loc>https://jinliaosat.com/about/index.html</loc>
     
     <lastmod>2019-10-24T02:10:56.220Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/2018/01/22/2017-conclusion/</loc>
+    <loc>https://jinliaosat.com/2018/01/22/2017-conclusion/</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/404.html</loc>
+    <loc>https://jinliaosat.com/404.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/friends/index.html</loc>
+    <loc>https://jinliaosat.com/archives/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/archives/index.html</loc>
+    <loc>https://jinliaosat.com/contact/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/contact/index.html</loc>
+    <loc>https://jinliaosat.com/categories/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/categories/index.html</loc>
+    <loc>https://jinliaosat.com/friends/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yoursite.com/tags/index.html</loc>
+    <loc>https://jinliaosat.com/tags/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jinliaosat.com/2018/12/15/xiao-xing-wei-xing-di-mian-zhan/</loc>
+    
+    <lastmod>2019-03-20T10:26:14.541Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jinliaosat.com/2018/03/08/ji-yu-github-he-hexo-da-jian-ge-ren-bo-ke/</loc>
+    
+    <lastmod>2018-12-27T02:00:25.310Z</lastmod>
     
   </url>
   
