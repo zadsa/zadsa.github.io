@@ -294,7 +294,7 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/3.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/7.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
@@ -559,6 +559,28 @@
         </div>
     </div>
 
+    
+    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: 'zadsa.github.io',
+        owner: 'zadsa',
+        admin: "zadsa",
+        id: '2018/01/22/2017-conclusion/',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
     
 
     
@@ -845,7 +867,7 @@
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="二零一七年终总结">
+                        <img src="/medias/featureimages/7.jpg" class="responsive-img" alt="二零一七年终总结">
                         
                         <span class="card-title">二零一七年终总结</span>
                     </div>
@@ -895,7 +917,7 @@
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="二零一七年终总结">
+                        <img src="/medias/featureimages/7.jpg" class="responsive-img" alt="二零一七年终总结">
                         
                         <span class="card-title">二零一七年终总结</span>
                     </div>
@@ -1148,6 +1170,7 @@
     });
 </script>
 
+<!--增加建站时间-->
 <script language=javascript>
     function siteTime() {
         window.setTimeout("siteTime()", 1000);
@@ -1216,9 +1239,12 @@ $(function () {
     <script src="/libs/scrollprogress/scrollProgress.min.js"></script>
     <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
     <script src="/js/matery.js"></script>
-
+    
+    <!-- 添加动态标签栏 -->
+    <!--
     <script type="text/javascript"> var OriginTitile = document.title, st; document.addEventListener("visibilitychange", function () { document.hidden ? (document.title = "Σ(っ °Д °;)っ喔哟，崩溃啦！", clearTimeout(st)) : (document.title = "φ(゜▽゜*)♪咦，又好了！", st = setTimeout(function () { document.title = OriginTitile }, 3e3)) })
     </script>
+    -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
