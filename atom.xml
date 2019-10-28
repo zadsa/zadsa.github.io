@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LiaojinのBlog</title>
+  <title>JinliaoのBlog</title>
   
-  
+  <subtitle>Jinliao</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinliaosat.com/"/>
-  <updated>2019-03-20T10:26:14.541Z</updated>
+  <updated>2019-10-28T03:07:49.852Z</updated>
   <id>https://jinliaosat.com/</id>
   
   <author>
-    <name>Liaojin</name>
+    <name>廖进</name>
     
   </author>
   
@@ -21,11 +21,18 @@
     <link href="https://jinliaosat.com/2018/12/15/xiao-xing-wei-xing-di-mian-zhan/"/>
     <id>https://jinliaosat.com/2018/12/15/xiao-xing-wei-xing-di-mian-zhan/</id>
     <published>2018-12-15T04:19:28.000Z</published>
-    <updated>2019-03-20T10:26:14.541Z</updated>
+    <updated>2019-10-28T03:07:49.852Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;​    小型卫星地面站系统由智讯创新团队，哈工大威海业余无线电俱乐部负责研发。初步计划完成地面站系统初样，实现稳定工作，并完成星地链路通信，通联紫丁香一号卫星Lilacsat-1（LO-90），接收卫星下传图片。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;p&gt;小型卫星地面站系统由智讯创新团队，哈工大威海业余无线电俱乐部负责研发。初步计划完成地面站系统初样，实现稳定工作，并完成星地链路通信，通联紫丁香一号卫星Lilacsat-1（LO-90），接收卫星下传图片。&lt;/p&gt;
+&lt;h2 id=&quot;紫丁香1号卫星简介&quot;&gt;&lt;a
+        
+      
     
     </summary>
     
@@ -73,7 +80,7 @@
     <link href="https://jinliaosat.com/2018/01/22/2017-conclusion/"/>
     <id>https://jinliaosat.com/2018/01/22/2017-conclusion/</id>
     <published>2018-01-22T04:32:09.000Z</published>
-    <updated>2019-09-26T05:13:10.000Z</updated>
+    <updated>2019-10-28T02:45:22.901Z</updated>
     
     <summary type="html">
     
