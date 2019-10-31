@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinliaosat.com/"/>
-  <updated>2019-10-28T09:29:41.014Z</updated>
+  <updated>2019-10-30T14:28:17.673Z</updated>
   <id>https://jinliaosat.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jinliaosat.com/2019/10/28/leetcode-shua-ti-xue-xi-zhi-lu/"/>
     <id>https://jinliaosat.com/2019/10/28/leetcode-shua-ti-xue-xi-zhi-lu/</id>
     <published>2019-10-28T09:18:10.000Z</published>
-    <updated>2019-10-28T09:29:41.014Z</updated>
+    <updated>2019-10-30T14:28:17.673Z</updated>
     
     <summary type="html">
     
@@ -48,10 +48,10 @@
   
   <entry>
     <title>JTAG救活USRP X310的前前后后</title>
-    <link href="https://jinliaosat.com/2019/05/23/vivado-huan-jing-xia-shi-yong-jtag-kou-shao-lu-usrp-x310-lin-shi-jing-xiang/"/>
-    <id>https://jinliaosat.com/2019/05/23/vivado-huan-jing-xia-shi-yong-jtag-kou-shao-lu-usrp-x310-lin-shi-jing-xiang/</id>
+    <link href="https://jinliaosat.com/2019/05/23/use-jtag-to-burn-temporary-images-to-usrp-x310/"/>
+    <id>https://jinliaosat.com/2019/05/23/use-jtag-to-burn-temporary-images-to-usrp-x310/</id>
     <published>2019-05-23T01:27:10.000Z</published>
-    <updated>2019-10-28T08:49:49.137Z</updated>
+    <updated>2019-10-31T01:50:21.601Z</updated>
     
     <summary type="html">
     
@@ -59,7 +59,7 @@
       
         
         
-          &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;为方便解决一大堆包依赖的问题，一开始使用GNU Radio的包管理系统Pybombs（Python Build Overlay
+          &lt;p&gt;在配完紫丁香卫星地面站的环境后，由于毕设需要，需要安装与GNU
         
       
     
@@ -77,11 +77,11 @@
   </entry>
   
   <entry>
-    <title>小型卫星地面站</title>
-    <link href="https://jinliaosat.com/2018/12/15/qing-xing-wei-xing-di-mian-zhan/"/>
-    <id>https://jinliaosat.com/2018/12/15/qing-xing-wei-xing-di-mian-zhan/</id>
+    <title>轻型卫星地面站</title>
+    <link href="https://jinliaosat.com/2018/12/15/light-satellite-ground-station/"/>
+    <id>https://jinliaosat.com/2018/12/15/light-satellite-ground-station/</id>
     <published>2018-12-15T04:19:28.000Z</published>
-    <updated>2019-10-30T13:56:10.539Z</updated>
+    <updated>2019-10-31T01:32:29.332Z</updated>
     
     <summary type="html">
     
@@ -90,7 +90,7 @@
         
         
           &lt;p&gt;小型卫星地面站系统由智讯创新团队，HITWH业余无线电俱乐部负责研发。初步计划完成地面站系统初样，实现稳定工作，并完成星地链路通信，通联紫丁香一号卫星Lilacsat-1（LO-90），接收卫星下传图片。&lt;/p&gt;
-&lt;p&gt;&lt;img
+&lt;p&gt;&lt;img src=&quot;1.jpg&quot;
         
       
     

@@ -1,3 +1,3 @@
 https://jinliaosat.com/2019/10/28/leetcode-shua-ti-xue-xi-zhi-lu/
-https://jinliaosat.com/2019/05/23/vivado-huan-jing-xia-shi-yong-jtag-kou-shao-lu-usrp-x310-lin-shi-jing-xiang/
-https://jinliaosat.com/2018/12/15/qing-xing-wei-xing-di-mian-zhan/
+https://jinliaosat.com/2019/05/23/use-jtag-to-burn-temporary-images-to-usrp-x310/
+https://jinliaosat.com/2018/12/15/light-satellite-ground-station/

@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jinliaosat.com/2018/12/15/qing-xing-wei-xing-di-mian-zhan/</loc>
+    <loc>https://jinliaosat.com/2019/05/23/use-jtag-to-burn-temporary-images-to-usrp-x310/</loc>
     
-    <lastmod>2019-10-30T13:56:10.539Z</lastmod>
+    <lastmod>2019-10-31T01:50:21.601Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jinliaosat.com/2018/12/15/light-satellite-ground-station/</loc>
+    
+    <lastmod>2019-10-31T01:32:29.332Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jinliaosat.com/2019/10/28/leetcode-shua-ti-xue-xi-zhi-lu/</loc>
+    
+    <lastmod>2019-10-30T14:28:17.673Z</lastmod>
     
   </url>
   
@@ -12,20 +26,6 @@
     <loc>https://jinliaosat.com/friends/index.html</loc>
     
     <lastmod>2019-10-30T13:39:44.735Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jinliaosat.com/2019/10/28/leetcode-shua-ti-xue-xi-zhi-lu/</loc>
-    
-    <lastmod>2019-10-28T09:29:41.014Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jinliaosat.com/2019/05/23/vivado-huan-jing-xia-shi-yong-jtag-kou-shao-lu-usrp-x310-lin-shi-jing-xiang/</loc>
-    
-    <lastmod>2019-10-28T08:49:49.137Z</lastmod>
     
   </url>
   
@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://jinliaosat.com/categories/index.html</loc>
+    <loc>https://jinliaosat.com/archives/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jinliaosat.com/archives/index.html</loc>
+    <loc>https://jinliaosat.com/categories/index.html</loc>
     
     <lastmod>2019-09-26T05:13:10.000Z</lastmod>
     
